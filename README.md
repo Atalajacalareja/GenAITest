@@ -1,0 +1,2 @@
+# GenAITest
+GenAI for DevOps
